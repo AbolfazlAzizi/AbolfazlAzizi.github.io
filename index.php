@@ -1,3 +1,4 @@
+<?php
 <html>
 <head>
 				<title>Test Page</title>
@@ -7,3 +8,4 @@
 <p>test</p>
 </body>
 </html> 
+?> 
